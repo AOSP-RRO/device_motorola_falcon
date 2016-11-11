@@ -4,14 +4,15 @@
     "target_path": "device/motorola/msm8226-common"
   },
   {
-    "repository": "KronicKernel/falcon",
+    "repository": "CyanogenMod/android_kernel_motorola_msm8226",
     "target_path": "kernel/motorola/msm8226",
     "remote": "github"
+    "branch": "cm-14.1"
   },
   {
     "repository": "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
     "remote": "github",
-    "branch": "cm-14.0"
+    "branch": "cm-14.1"
   }
 ]
